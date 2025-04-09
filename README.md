@@ -9,4 +9,4 @@ This is a sample Power BI report analyzing HR Analytıcs Data.
 📁 File:
 - `HR.pbix`
 
-![Rapor Görseli](images/report.png)
+![Rapor Görseli](report.jpg)
